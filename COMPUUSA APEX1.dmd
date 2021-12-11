@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="COMPUUSA APEX1" id="C9D9CDCB-1E24-1343-2179-FE144F1A4923" version="3.5">
+<createdBy>Jorge</createdBy>
+<createdTime>2021-12-08 18:35:22 UTC</createdTime>
+<ownerDesignName>COMPUUSA APEX1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C9D9CDCB-1E24-1343-2179-FE144F1A4923</designId>
+</OSDM_Design>
